@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "테이터형, 입력"
+title: "이터형, 입력"
 ---
 
 [문제 상황]  
